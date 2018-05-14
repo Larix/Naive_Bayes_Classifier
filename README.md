@@ -1,2 +1,2 @@
-# Naive_Bayes_Classifier
+# Naive-Bayes-Classifier
 This is a demo about naive bayes
